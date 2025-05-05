@@ -1,3 +1,14 @@
+1) Zapret indir 
+https://github.com/bol-van/zapret
+
+2) Indirilen Zip'i cikar
+3) Dosyadaki install_easy.sh'i calistir
+4) /opt/zapret icersindeki config'i asagidaki ile degistir
+5) bitti 
+
+
+
+
 ```
 # this file is included from init scripts
 # change values here
