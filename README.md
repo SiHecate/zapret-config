@@ -1,3 +1,4 @@
+```
 # this file is included from init scripts
 # change values here
 
@@ -125,3 +126,4 @@ DISABLE_IPV6=1
 # possible values : get_user.sh get_antizapret.sh get_combined.sh get_reestr.sh get_hostlist.sh
 # comment if not required
 #GETLIST=
+```
