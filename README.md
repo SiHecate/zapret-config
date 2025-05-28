@@ -1,12 +1,11 @@
 1) Zapret indir 
-https://github.com/bol-van/zapret
-
+https://github.com/bol-van/zapret (Sag taraftan versionlardan en sonuncusunu zip ile indirip)
 2) Indirilen Zip'i cikar
-3) Dosyadaki install_easy.sh'i calistir
-4) /opt/zapret icersindeki config'i asagidaki ile degistir
-5) bitti 
-
-
+3) Dosyadaki install_easy.sh'i calistir (Terminal ile)
+4) /opt/zapret icersindeki config'i asagidaki ile degistir sudo yetkisi ile
+5) cloudflare dns'e gec 1.1.1.1 1.1.0.0
+6) pc restart
+7) bitti 
 
 
 ```
